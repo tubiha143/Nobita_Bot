@@ -32,10 +32,10 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "🕸️ 𝐒𝐩𝐢𝐝𝐞𝐘🕷️";
-    const authorName = "Ma-Hi";
-    const authorFB = "fb.com/mahi68x";
-    const authorInsta = "raadx102";
+    const botName = "乛ŋoɮıŤʌ シ︎";
+    const authorName = "Nobita";
+    const authorFB = "https://www.facebook.com/profile.php?id=61565108831644";
+    const authorInsta = "tushann143";
     const status = "𝗦𝗶𝗻𝗴𝗹𝗲";
 
     const now = moment().tz('Asia/Dhaka');
@@ -53,13 +53,13 @@ module.exports = {
 
 ┏━━━━━━━━━━━━━━━━┓
 ┃ 🧑 Admin Info
-┃ ╰➤ Name: ${authorName}
-┃ ╰➤ Facebook: ${authorFB}
-┃ ╰➤ Instagram: ${authorInsta}
-┃ ╰➤ Status: ${status}
+┃ ╰➤ Name: ${乛ŋoɮıŤʌ シ︎}
+┃ ╰➤ Facebook: ${https://www.facebook.com/profile.php?id=61565108831644}
+┃ ╰➤ Instagram: ${Tushan}
+┃ ╰➤ Status: ${Single}
 ┃
 ┃ 🤖 Bot Details
-┃ ╰➤ Name: ${botName}
+┃ ╰➤ Name: ${乛ŋoɮıŤʌ シ︎}
 ┃ ╰➤ Time: ${time}
 ┃ ╰➤ Uptime: ${uptimeString}
 ┗━━━━━━━━━━━━━━━━┛
