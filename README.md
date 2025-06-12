@@ -1,4 +1,4 @@
-<h1 align="center">MaHi's Bot </h1>
+<h1 align="center">Nobita's Bot </h1>
 
 <p align="center">
   <a href="https://files.catbox.moe/2qwm2r.mp4">
@@ -10,9 +10,9 @@
 
 ## 👤 OWNER INFO
 
-- 👑 Name: **MaHi**
-- 🏙️ From: **Dhaka**
-- 🎂 Age: **16**
+- 👑 Name: **Tushan **
+- 🏙️ From: **Brahmanbaria**
+- 🎂 Age: **23**
 
 ---
 
