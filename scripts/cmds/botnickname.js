@@ -14,7 +14,7 @@ module.exports = {
     },
     category: "owner",
     guide: {
-      en: "{pn} <new nickname>"
+      en: "{pn} <乛ŋoɮıŤʌ_シ︎>"
     },
     envConfig: {
       delayPerGroup: 250
